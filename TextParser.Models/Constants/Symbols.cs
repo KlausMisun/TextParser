@@ -6,8 +6,8 @@ public class Symbols
     public static string SkipParsingSymbol = "";
     public static string StopParsingSymbol = "}}";
 
-    public static string EnableKeywordConversion = "!";
-    public static string EnableFontConversion = "|";
+    public static string DisableKeywordConversion = "!";
+    public static string DisableFontConversion = "|";
     
     
 }

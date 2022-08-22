@@ -5,4 +5,5 @@ public enum ParseOperation
     None,
     KeyWords,
     Font,
+    All,
 }
