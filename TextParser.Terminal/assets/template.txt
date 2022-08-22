@@ -1,0 +1,4 @@
+I am the king of all HELLO_WORD {{HELLO_WORD }} {{How_ISTHIS-TRUE}}
+I am the king of all HELLO_WORD {{HELLO_WORD }} {{|How_ISTHIS-TRUE}}
+I am the king of all HELLO_WORD {{HELLO_WORD }} {{!How_ISTHIS-TRUE}}
+I am the king of all HELLO_WORD {{HELLO_WORD }} {{|!How_ISTHIS-TRUE}}
