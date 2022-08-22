@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\TextParser.Models\TextParser.Models.csproj" />
+    </ItemGroup>
+
 </Project>
